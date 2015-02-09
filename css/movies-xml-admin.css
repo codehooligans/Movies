@@ -1,0 +1,12 @@
+table.form-table-movies-feed-urls {
+	width: 100%;
+}
+
+table.form-table-movies-feed-urls th.column-action, table.form-table-movies-feed-urls td.column-action {
+	width: 10px;
+}
+
+.error {
+	color: red;
+	font-weight: bold;
+}
